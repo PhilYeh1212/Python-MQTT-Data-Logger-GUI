@@ -62,6 +62,6 @@ self.client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
 👨‍💻 About the Author
 Phil Yeh - Senior Automation Engineer
 
-My Gumroad Store (More Engineering Tools)
+My Gumroad Store ([More Engineering Tools](https://gumroad.com/products))
 
 Keywords: MQTT, Python, Paho-MQTT, IoT, Data Logger, GUI, Source Code, Automation, Tkinter, SCADA
