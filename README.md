@@ -37,10 +37,10 @@ process the data, not just look at it.
 This repo contains the **Community Edition** — a basic MQTT logger that
 saves messages to CSV.
 
-The **[MQTT Logger Pro](https://pokhts.gumroad.com)** version on Gumroad
+The **[MQTT Logger Pro](https://philyeh.gumroad.com)** version on Gumroad
 adds the production features I built for real IoT projects:
 
-| Feature | Community (this repo) | **[Pro Edition ($39)](https://pokhts.gumroad.com)** |
+| Feature | Community (this repo) | **[Pro Edition ($39)](https://philyeh.gumroad.com)** |
 |---|:---:|:---:|
 | Subscribe to a single topic | ✅ | ✅ |
 | **Multi-topic subscribe** with wildcards (`+`, `#`) | ❌ | ✅ |
@@ -55,9 +55,9 @@ adds the production features I built for real IoT projects:
 | **Commercial license** | ❌ | ✅ |
 | **Email support** | ❌ | ✅ |
 
-### 👉 [Get MQTT Logger Pro on Gumroad — $39](https://pokhts.gumroad.com)
+### 👉 [Get MQTT Logger Pro on Gumroad — $39](https://philyeh.gumroad.com)
 
-Or save $47 with the **[Industrial Python Toolkit Bundle](https://pokhts.gumroad.com)**
+Or save $47 with the **[Industrial Python Toolkit Bundle](https://philyeh.gumroad.com)**
 ($129) — includes MQTT + Modbus + J1939 + EtherNet/IP.
 
 ---
@@ -133,18 +133,18 @@ Now `pandas.read_csv()` gives you proper columns and `df.plot()` works.
 ## 📥 Get the Pro version
 
 The Community Edition is great for learning the MQTT basics. The
-**[Pro version](https://pokhts.gumroad.com)** is what I use in actual
+**[Pro version](https://philyeh.gumroad.com)** is what I use in actual
 IoT projects — production-quality, all features, commercial license.
 
 | Product | Price | Link |
 |---|---:|---|
-| 📡 **MQTT Logger Pro** (this tool, Pro edition) | $39 | [Buy](https://pokhts.gumroad.com) |
-| 🚛 **J1939 Sniffer Pro** | $59 | [Buy](https://pokhts.gumroad.com) |
-| ⚙️ **Modbus Logger Pro** | $49 | [Buy](https://pokhts.gumroad.com) |
-| 🏭 **EtherNet/IP Study Kit** | $29 | [Buy](https://pokhts.gumroad.com) |
-| 🔒 **Private ChatGPT Stack** | $59 | [Buy](https://pokhts.gumroad.com) |
-| 📦 **Industrial Python Toolkit Bundle** (4 tools, save $47) | **$129** | [Buy](https://pokhts.gumroad.com) |
-| 📊 **CSV Dashboard** (free companion to visualize your logs) | $0 | [Download](https://pokhts.gumroad.com) |
+| 📡 **MQTT Logger Pro** (this tool, Pro edition) | $39 | [Buy](https://philyeh.gumroad.com) |
+| 🚛 **J1939 Sniffer Pro** | $59 | [Buy](https://philyeh.gumroad.com) |
+| ⚙️ **Modbus Logger Pro** | $49 | [Buy](https://philyeh.gumroad.com) |
+| 🏭 **EtherNet/IP Study Kit** | $29 | [Buy](https://philyeh.gumroad.com) |
+| 🔒 **Private ChatGPT Stack** | $59 | [Buy](https://philyeh.gumroad.com) |
+| 📦 **Industrial Python Toolkit Bundle** (4 tools, save $47) | **$129** | [Buy](https://philyeh.gumroad.com) |
+| 📊 **CSV Dashboard** (free companion to visualize your logs) | $0 | [Download](https://philyeh.gumroad.com) |
 
 ---
 
@@ -153,7 +153,7 @@ IoT projects — production-quality, all features, commercial license.
 **Phil Yeh** — Senior Automation Engineer based in Taiwan. I build Python
 tools for industrial protocol work.
 
-- 🛒 **Store:** [pokhts.gumroad.com](https://pokhts.gumroad.com)
+- 🛒 **Store:** [philyeh.gumroad.com](https://philyeh.gumroad.com)
 - ✍️ **Blog:** [dev.to/philyeh](https://dev.to/philyeh)
 
 ---
@@ -162,7 +162,7 @@ tools for industrial protocol work.
 
 The Community Edition in this repository is free for personal and
 educational use. For commercial use (client projects, internal company
-tools, products you sell), please get the **[Pro Edition](https://pokhts.gumroad.com)**
+tools, products you sell), please get the **[Pro Edition](https://philyeh.gumroad.com)**
 which includes a proper commercial license.
 
 If this tool helped you, **a ⭐ on the repo** means a lot to an indie
